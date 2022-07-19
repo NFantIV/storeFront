@@ -1,0 +1,34 @@
+#Nav-Bar {
+    background-color: black;
+    color: red;
+}
+
+#Title {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Mingzat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Splash', cursive;
+    color: red;
+}
+
+#P1 {
+    background-image: url(./assets/background2.jpeg);
+    color: white;
+    font-weight: bold;
+    height: 500px;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#P2 {
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    height: 500px;
+    font-weight: bold;
+    text-align: center;
+}
